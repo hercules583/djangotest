@@ -39,15 +39,12 @@ prompt-toolkit==3.0.8
 Pygments==2.7.2
 PyJWT==1.7.1
 pyparsing==2.4.7
-pytz==2020.4
 PyYAML==5.3.1
 requests==2.25.1
 requests-toolbelt==0.9.1
 ruamel.yaml==0.16.12
-ruamel.yaml.clib==0.2.2
 simplejson==3.17.2
 sqlparse==0.4.1
-traitlets==5.0.5
 typing-extensions==3.7.4.3
 uritemplate==3.0.1
 urllib3==1.26.2

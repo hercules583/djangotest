@@ -121,25 +121,25 @@ DATABASES = {
         # 指定数据库引擎
         'ENGINE': 'django.db.backends.mysql',
         # 指定数据库名
-        'NAME': 'lemon-test',
+        'NAME': 'naihe',
         # 数据数据用户名
         'USER': 'root',
-        'PASSWORD': 'root',  # 数据库密码
-        'HOST': 'localhost',  # 数据库主机域名或者ip
-        'PORT': 3306  # 数据库的端口
+        'PASSWORD': '123456',  # 数据库密码
+        'HOST': '121.36.97.99',  # 数据库主机域名或者ip
+        'PORT': 3307  # 数据库的端口
     },
-    'db': {
-        # 'ENGINE': 'django.db.backends.sqlite3',  # Django 默认的数据库为sqlite3
-        # 指定数据库引擎
-        'ENGINE': 'django.db.backends.mysql',
-        # 指定数据库名
-        'NAME': 'lemon-test',
-        # 数据数据用户名
-        'USER': 'root',
-        'PASSWORD': 'root',  # 数据库密码
-        'HOST': 'localhost',  # 数据库主机域名或者ip
-        'PORT': 3306  # 数据库的端口
-    }
+    # 'db': {
+    #     # 'ENGINE': 'django.db.backends.sqlite3',  # Django 默认的数据库为sqlite3
+    #     # 指定数据库引擎
+    #     'ENGINE': 'django.db.backends.mysql',
+    #     # 指定数据库名
+    #     'NAME': 'lemon-test',
+    #     # 数据数据用户名
+    #     'USER': 'root',
+    #     'PASSWORD': 'root',  # 数据库密码
+    #     'HOST': 'localhost',  # 数据库主机域名或者ip
+    #     'PORT': 3306  # 数据库的端口
+    # }
 }
 
 # Password validation
